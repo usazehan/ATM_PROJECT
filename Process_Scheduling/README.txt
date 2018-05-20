@@ -1,0 +1,1 @@
+When running the the program in Linux terminal, use "g++-4.8 -std=c++11 *.cpp -o source" or "g++ -std=c++11 *.cpp -o source". Then, do "./source < filename.txt" read the textfile.
