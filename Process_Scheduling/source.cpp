@@ -1,10 +1,3 @@
-/*
-Zehan Sunesara
-COSC 3360
-2/23/18
-Assignment #1
-*/
-
 #include <iostream>
 #include <vector>
 #include <queue>
